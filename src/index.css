@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+textarea {
+  width: 90%;
+  margin: 0 auto;
+  outline: none;
+  height: 650px;
+}
+
+textarea:disabled {
+  background-color: #a5a2a2;
+}
