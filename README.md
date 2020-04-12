@@ -6,7 +6,7 @@
 Everyone faces ups and downs in their lives. Sometimes , people encounter situations which cannot be shared with just anyone. During those cases , happify comes to the rescue. It helps in letting the emotions come out of the person's mind , so that they can feel relaxed and even later analyse the cause of issue.
 
 
-### Faetures -
+### Features -
 - Simple , clean yet elegant web app with touch of Tailwind CSS .
 - Created using React Hooks.
 - Also displays quote of the day after the person has jotted down everything , which is fetched from [They Said So](https://quotes.rest/)
