@@ -10,3 +10,4 @@ Everyone faces ups and downs in their lives. Sometimes , people encounter situat
 - Simple , clean yet elegant web app with touch of Tailwind CSS .
 - Created using React Hooks.
 - Also displays quote of the day after the person has jotted down everything , which is fetched from [They Said So](https://quotes.rest/)
+- Embedded live chat option to discuss the issue with experts !!
