@@ -3,8 +3,6 @@
 
 ## Happify - A place to console.log( emotions )
 
-Everyone faces ups and downs in their lives. Sometimes , people encounter situations which cannot be shared with just anyone. During those cases , happify comes to the rescue. It helps in letting the emotions come out of the person's mind , so that they can feel relaxed and even later analyse the cause of issue.
-
 
 ### Features -
 - Simple , clean yet elegant web app with touch of Tailwind CSS .
